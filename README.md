@@ -1,4 +1,4 @@
-# Hack-the-code
+/* Hack-the-code*/
 #include "stdafx.h"
 #include "stdio.h"
 using namespace System;
