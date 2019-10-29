@@ -1,1 +1,2 @@
 # Hack-the-code
+SHORT HAND OPERATORS ARE FUN.
