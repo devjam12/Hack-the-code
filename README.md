@@ -1,4 +1,2 @@
 # Hack-the-code
-Multithreading in java is a process of executing two or more threads simultaneously to maximum utilization of CPU.
-Multithreaded applications are where two or more threads run concurrently; hence it is also known as Concurrency in Java. This multitasking is done, when multiple processes share common resources like CPU, memory, etc.
-Each thread runs parallel to each other. Threads don't allocate separate memory area; hence it saves memory. Also, context switching between threads takes less time.
+Applets are small Internet-based program written in Java, a programming language for the Web and can be downloaded by any computer. The applet is also capable of running in HTML. The applet is usually embedded in an HTML page on a Web site and can be executed from within a browser. After an applet arrives on the client, it has limited access to resources so that it can produce a graphical user interface and run complex computations without introducing the risks of viruses or data security breaching.
