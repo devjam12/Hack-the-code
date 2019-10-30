@@ -1,2 +1,1 @@
-# Hack-the-code
-my 3rd PR
+how to cheat in hacktober fest
